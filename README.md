@@ -3,6 +3,10 @@
 ## Purpose
 Automation solutions for downloading issues with the Steam mac client whilst we wait for Steam to fix their software.
 
+## Video walkthrough
+
+[Click here for a video walkthrough](https://youtu.be/jqF6uHrIwCo)
+
 ## Background
 
 Related community threads can be found here:
